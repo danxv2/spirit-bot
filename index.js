@@ -272,4 +272,4 @@ client.on('guildMemberAdd', async (member) => {
 }
 })
 
-client.login("ODA4MjEzNjA0MDg4MTUyMDc0.YCDRkw.ndpzHkCdkOoMvXoQW6i19U8EtX4")
+client.login("ODA4MjEzNjA0MDg4MTUyMDc0.YCDRkw.bzBFY97JFUH3f9u41HC6totOBiE")
